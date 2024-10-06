@@ -1,0 +1,1 @@
+Simple organizador de archivos en Bash, pide un formato y envia todos los archivos de ese formato en la carpeta a una subcarpeta especifica.
