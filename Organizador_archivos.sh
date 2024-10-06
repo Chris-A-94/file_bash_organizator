@@ -19,4 +19,4 @@ fi
 
 echo "Files sent."
 fecha=$(date)
-echo "$textFiles archivos de tipo $formato fueron procesados el $fecha" >> script.log
+echo "$textFiles archivos de tipo $formato fueron procesados el $fecha" >> ./"${formato}_Files"/script.log
